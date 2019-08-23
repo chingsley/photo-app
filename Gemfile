@@ -69,3 +69,8 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem "stripe", "~> 5.0"
+
+gem "carrierwave", "~> 2.0"
+
+gem "mini_magick", "~> 4.9"
+gem "fog", "~> 2.2"
